@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeruizsilva
-- 👀 I’m interested in programar
+- 👀 I’m interested in programming
 
 <!---
 joeruizsilva/joeruizsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
